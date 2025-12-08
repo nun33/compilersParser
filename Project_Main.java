@@ -1,6 +1,4 @@
 
-package com.mycompany.mavenproject2;
-
 import java.util.Scanner;
 
 public class Project_Main {
@@ -61,3 +59,4 @@ System.out.println("Q1 - Canonical LR(1) Data:\n"
         p.LR_Parse(s);
     }
 }
+
